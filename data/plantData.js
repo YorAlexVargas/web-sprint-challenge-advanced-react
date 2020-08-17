@@ -1,4 +1,5 @@
 const plantsData = [
+  
   {
     name: "Peperomia Rosso",
     id: 143,
